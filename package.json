@@ -1,0 +1,25 @@
+{
+  "name": "weka-api",
+  "version": "1.0.0",
+  "description": "weka-api is the api for the weka platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lenscorpx/weka-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lenscorpx/weka-api/issues"
+  },
+  "homepage": "https://github.com/Lenscorpx/weka-api#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.7.2",
+    "mongoose": "^6.0.13"
+  }
+}
